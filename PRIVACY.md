@@ -30,7 +30,7 @@ Zenvio stores these things **only on your own PC**. We never see them, and they'
 | Your clips | your clips folder (`Videos\Clips` unless you choose another) | Can include your screen, PC sound (including voice chat) and your microphone. |
 | The rolling recording | `%LOCALAPPDATA%\Zenvio\buffer` | The last few minutes, overwritten as you play. Deleted when Zenvio closes; after a crash or power cut, deleted the next time Zenvio starts. |
 | Settings, your own sounds, starred clips | `%APPDATA%\Zenvio` | |
-| Logs | `%LOCALAPPDATA%\Zenvio\logs` | What Zenvio did and when: file paths (which include your Windows user name), audio device names, which program was in front and whether it counted as a game, and clip file names. Never what you type, and never window titles. Limited in size. |
+| Logs | `%LOCALAPPDATA%\Zenvio\logs` | What Zenvio did and when: file paths (which include your Windows user name), audio device names, your graphics card model and which video encoder Zenvio used, which program was in front and whether it counted as a game, and clip file names. Never what you type, and never window titles. Limited in size. |
 | Clip thumbnails and other working files | `%LOCALAPPDATA%\Zenvio` | Includes a list of large or full-screen programs Zenvio has seen, for the games list in Settings. |
 | A random "PC number" | `%LOCALAPPDATA%\Zenvio\report-id.txt` | Made by Zenvio the first time you open the problem-report form. Not linked to you or your PC's hardware. |
 | Your sent reports | `%LOCALAPPDATA%\Zenvio\sent-reports.json` | The reference and a secret "delete key" for each report you sent, so you can delete it later. |
