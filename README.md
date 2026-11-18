@@ -30,12 +30,18 @@ the main thing I cared about is that it's light. on my pc (Ryzen 5 3500X + RTX 3
 - **NVIDIA graphics card only for now** (it uses the card's built-in video encoder). AMD and Intel might come later
 - Windows 10 or 11, 64-bit
 - games in borderless or windowed mode work best. exclusive fullscreen might not
-- your clips stay on your pc. Zenvio doesn't upload anything. the only time it goes online is to check this page for updates
+- your clips stay on your pc. Zenvio doesn't upload anything. it only goes online to check this page for updates, and when you send a problem report yourself
 
 ## something broke?
 
-open an [issue](https://github.com/ipo461/zenvio-releases/issues) and tell me what happened. if you can, add your log file (Zenvio → Settings → Troubleshooting → Open log folder).
+use **Report a problem** in the app (left sidebar, under Settings). you see exactly what gets sent before you click Send, and you can delete your report later. please **don't post your log files in public GitHub issues**: they can contain your folder names and which games and apps you ran.
+
+no internet, or the app won't open at all? open an [issue](https://github.com/ipo461/zenvio-releases/issues) and describe what happened (no logs, nothing personal: issues are public).
+
+## terms & privacy
+
+by using Zenvio you agree to the [terms of use](https://github.com/ipo461/zenvio-releases/blob/main/TERMS.md). the [privacy policy](https://github.com/ipo461/zenvio-releases/blob/main/PRIVACY.md) explains the little bit of data Zenvio ever handles (update checks, and problem reports you send yourself). questions or deleting a report: iposbots@proton.me
 
 ## credits
 
-video recording uses [FFmpeg](https://ffmpeg.org) (LGPL), audio uses [NAudio](https://github.com/naudio/NAudio), icons are from [Lucide](https://lucide.dev). the full licence texts come with the app in THIRD-PARTY-NOTICES.txt.
+video recording uses [FFmpeg](https://ffmpeg.org) (LGPL), audio uses [NAudio](https://github.com/naudio/NAudio), icons are from [Lucide](https://lucide.dev). the app comes with THIRD-PARTY-NOTICES.txt and a `licenses` folder with the full licence texts (including every library inside FFmpeg); the complete FFmpeg source code is a free download (see THIRD-PARTY-NOTICES.txt).
