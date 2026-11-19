@@ -1,12 +1,12 @@
-# Zenvio
+# Rewyvo
 
-hey, this is Zenvio. it's a little clipping app for Windows that I made because I got tired of my clipper eating my RAM and CPU while I play.
+hey, this is Rewyvo (it was called Zenvio until november 2026, same app). it's a little clipping app for Windows that I made because I got tired of my clipper eating my RAM and CPU while I play.
 
 you play like normal, something cool happens, you press **F8** and the last 60 seconds get saved as a video. that's basically it.
 
 ## download
 
-grab **ZenvioSetup.exe** from the [Releases](https://github.com/ipo461/zenvio-releases/releases/latest) page and run it. no account, no sign up, nothing.
+grab the **Setup.exe** from the [Releases](https://github.com/ipo461/zenvio-releases/releases/latest) page and run it. no account, no sign up, nothing.
 
 once it's installed it updates itself. when there's a new version you get a little "update ready" message and you click it. you can turn that off in settings if you don't want it.
 
@@ -23,14 +23,14 @@ once it's installed it updates itself. when there's a new version you get a litt
 
 ## why I made it
 
-the main thing I cared about is that it's light. on my pc (Ryzen 5 3500X + RTX 3050) it used way less CPU and RAM than the clipper I was using before (about 3.5x less CPU and 9x less RAM in my tests). FPS was about the same, because grabbing the screen costs the same for every app that does it. when you close the Zenvio window it fully closes, and only the small recorder stays in the tray.
+the main thing I cared about is that it's light. on my pc (Ryzen 5 3500X + RTX 3050) it used way less CPU and RAM than the clipper I was using before (about 3.5x less CPU and 9x less RAM in my tests). FPS was about the same, because grabbing the screen costs the same for every app that does it. when you close the Rewyvo window it fully closes, and only the small recorder stays in the tray.
 
 ## good to know
 
 - **NVIDIA graphics card only for now** (it uses the card's built-in video encoder). AMD and Intel might come later
 - Windows 10 or 11, 64-bit
 - games in borderless or windowed mode work best. exclusive fullscreen might not
-- your clips stay on your pc. Zenvio doesn't upload anything. it only goes online to check this page for updates, and when you send a problem report yourself
+- your clips stay on your pc. Rewyvo doesn't upload anything. it only goes online to check this page for updates, and when you send a problem report yourself
 
 ## something broke?
 
@@ -40,7 +40,7 @@ no internet, or the app won't open at all? open an [issue](https://github.com/ip
 
 ## terms & privacy
 
-by using Zenvio you agree to the [terms of use](https://github.com/ipo461/zenvio-releases/blob/main/TERMS.md). the [privacy policy](https://github.com/ipo461/zenvio-releases/blob/main/PRIVACY.md) explains the little bit of data Zenvio ever handles (update checks, and problem reports you send yourself). questions or deleting a report: iposbots@proton.me
+by using Rewyvo you agree to the [terms of use](https://github.com/ipo461/zenvio-releases/blob/main/TERMS.md). the [privacy policy](https://github.com/ipo461/zenvio-releases/blob/main/PRIVACY.md) explains the little bit of data Rewyvo ever handles (update checks, and problem reports you send yourself). questions or deleting a report: iposbots@proton.me
 
 ## credits
 
