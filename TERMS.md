@@ -1,6 +1,6 @@
 # Rewyvo terms of use
 
-**Version 2026-11-18d** · last updated 18 November 2026
+**Version 2026-11-21** · last updated 21 November 2026
 
 Rewyvo was called **Zenvio** until 18 November 2026. Only the name changed: these terms apply under both names.
 
@@ -33,6 +33,9 @@ Rewyvo is a free game clipper for Windows.
   choose. Nothing is saved as a clip unless you press the key.
 - It lets you watch, rename, star, shrink, export and delete your clips, and can delete your oldest un-starred clips
   when you reach the storage limit you set (10 GB unless you change it).
+- If you press **Phone** ("Rewyvo on your phone"), it lets your own phone watch and download your clips over your
+  home Wi-Fi, but only phones you allow on your PC, only while sharing is on, and never on networks Windows calls
+  Public. This stays inside your home network: nothing goes to the internet or to us. You can remove a phone any time.
 
 **What it doesn't do:**
 
@@ -41,7 +44,7 @@ Rewyvo is a free game clipper for Windows.
 - It never records or logs what you type. It only notices when you press Rewyvo's own keys.
 
 Rewyvo only goes online for two things: checking for updates (section 8) and sending a problem report when you choose
-to (section 9).
+to (section 9). Sharing to your phone uses only your home network, not the internet.
 
 ## 3. Using Rewyvo is free
 
