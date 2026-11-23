@@ -88,9 +88,10 @@ developer, so a changed or fake update is refused.
   We don't receive your IP address from GitHub. We can only see how many times each release was downloaded.
 - **Turning it off:** switch off update checks in Rewyvo's Settings.
 
-**When you install Rewyvo**, the installer downloads Microsoft's free .NET Desktop Runtime if your PC doesn't have it
-yet. Microsoft then sees your IP address; see the [Microsoft Privacy Statement](https://privacy.microsoft.com/privacystatement).
-The same goes for GitHub when you download Rewyvo from the releases page.
+**When you download Rewyvo** from the releases page, GitHub sees your IP address in the same way. Installing it
+downloads nothing else: everything Rewyvo needs (including Microsoft's .NET runtime) is inside the installer.
+(Rewyvo 1.0.0 and older could download Microsoft's .NET Desktop Runtime during install if your PC didn't have it; then
+Microsoft saw your IP address, see the [Microsoft Privacy Statement](https://privacy.microsoft.com/privacystatement).)
 
 ## 4. Problem reports
 
