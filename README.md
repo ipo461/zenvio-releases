@@ -1,16 +1,16 @@
-# Rewyvo
+# Reywvo
 
-hey, this is Rewyvo (it was called Zenvio until november 2026, same app). it's a free little clipping app for Windows that I made because I got tired of my clipper eating my RAM and CPU while I play.
+hey, this is Reywvo (it used to be called Rewyvo, and Zenvio before that: same app, the name just changed). it's a free little clipping app for Windows that I made because I got tired of my clipper eating my RAM and CPU while I play.
 
 you play like normal, something cool happens, you press **F8** and the last 60 seconds get saved as a video. that's basically it.
 
 ## download
 
-**[⬇ Download Rewyvo-Setup.exe](https://github.com/ipo461/zenvio-releases/releases/latest/download/Rewyvo-Setup.exe)** (always the newest version) and run it. no account, no sign up, nothing.
+**[⬇ Download Reywvo-Setup.exe](https://github.com/ipo461/zenvio-releases/releases/latest/download/Reywvo-Setup.exe)** (always the newest version) and run it. no account, no sign up, nothing.
 
-Windows 10 or 11, 64-bit.
+Windows 10 or 11, 64-bit. more about it on the website: [reywvo.com](https://reywvo.com)
 
-**"Windows protected your PC"?** click **More info → Run anyway**. Windows shows that for apps that aren't code-signed yet (signing costs money every year, and Rewyvo is free). updates are still signed with my own key, and the app refuses any update that isn't.
+**"Windows protected your PC"?** click **More info → Run anyway**. Windows shows that for apps that aren't code-signed yet (signing costs money every year, and Reywvo is free). updates are still signed with my own key, and the app refuses any update that isn't.
 
 once it's installed it updates itself. when there's a new version you get a little "update ready" message and you click it. you can turn that off in settings if you don't want it.
 
@@ -31,7 +31,7 @@ once it's installed it updates itself. when there's a new version you get a litt
 
 the main thing I cared about is that it's light. I tested it against Medal in Rainbow Six Siege on my pc (Ryzen 5 3500X + RTX 3050, 1080p, same route, 3 runs each):
 
-| | Rewyvo | Medal |
+| | Reywvo | Medal |
 |---|---|---|
 | FPS lost while recording | **−6.5** | −7.5 |
 | 1 % lows (stutters) | **93.9** | 92.0 |
@@ -39,13 +39,13 @@ the main thing I cared about is that it's light. I tested it against Medal in Ra
 | graphics card video encoder | **7 %** | 15 % |
 | RAM | **~180 MB** with the window closed (~365 MB open) | ~1,313 MB |
 
-every clipper costs a few FPS because copying and encoding the screen isn't free, Rewyvo just does it with less work. when you close the Rewyvo window it fully closes, and only the small recorder stays in the tray. (the 180 MB figure is from my separate long recording tests with the window closed; during the benchmark runs the window was open.)
+every clipper costs a few FPS because copying and encoding the screen isn't free, Reywvo just does it with less work. when you close the Reywvo window it fully closes, and only the small recorder stays in the tray. (the 180 MB figure is from my separate long recording tests with the window closed; during the benchmark runs the window was open.)
 
 ## good to know
 
 - works with **NVIDIA, AMD and Intel** graphics cards (it uses the card's built-in video encoder). I've only been able to test on NVIDIA so far, so if something's off on AMD or Intel please send a problem report
 - games in borderless or windowed mode work best. exclusive fullscreen might not
-- your clips stay on your pc. Rewyvo doesn't upload anything. it only goes online to check this page for updates, and when you send a problem report yourself
+- your clips stay on your pc. Reywvo doesn't upload anything. it only goes online to check this page for updates, and when you send a problem report yourself
 
 ## something broke?
 
@@ -55,7 +55,7 @@ no internet, or the app won't open at all? open an [issue](https://github.com/ip
 
 ## terms & privacy
 
-by using Rewyvo you agree to the [terms of use](https://github.com/ipo461/zenvio-releases/blob/main/TERMS.md). the [privacy policy](https://github.com/ipo461/zenvio-releases/blob/main/PRIVACY.md) explains the little bit of data Rewyvo ever handles (update checks, and problem reports you send yourself). questions or deleting a report: iposbots@proton.me
+by using Reywvo you agree to the [terms of use](https://github.com/ipo461/zenvio-releases/blob/main/TERMS.md). the [privacy policy](https://github.com/ipo461/zenvio-releases/blob/main/PRIVACY.md) explains the little bit of data Reywvo ever handles (update checks, and problem reports you send yourself). questions or deleting a report: iposbots@proton.me
 
 ## credits
 
