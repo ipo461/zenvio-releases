@@ -1,28 +1,28 @@
-# Rewyvo terms of use
+# Reywvo terms of use
 
-**Version 2026-11-21** · last updated 21 November 2026
+**Version 2026-11-25** · last updated 25 November 2026
 
-Rewyvo was called **Zenvio** until 18 November 2026. Only the name changed: these terms apply under both names.
+Reywvo was called **Rewyvo** until November 2026, and **Zenvio** until 18 November 2026. Only the name changed: these terms apply under all three names.
 
-These terms are the agreement between you and the Rewyvo developer about using Rewyvo. We've tried to keep them short
-and in plain English. How Rewyvo handles personal data is explained separately in the
+These terms are the agreement between you and the Reywvo developer about using Reywvo. We've tried to keep them short
+and in plain English. How Reywvo handles personal data is explained separately in the
 [privacy policy](PRIVACY.md).
 
-When Rewyvo first starts, it shows a short version of these terms and asks you to agree. Ticking the box means you
-agree to these full terms. If you don't agree, please don't use Rewyvo and uninstall it.
+When Reywvo first starts, it shows a short version of these terms and asks you to agree. Ticking the box means you
+agree to these full terms. If you don't agree, please don't use Reywvo and uninstall it.
 
-## 1. Who provides Rewyvo
+## 1. Who provides Reywvo
 
-Rewyvo is made by one independent developer in the United Kingdom, called "the Rewyvo developer", "we" or "us" in
-these terms. Rewyvo is not a company product, and it is not connected to any game, game publisher or other app.
+Reywvo is made by one independent developer in the United Kingdom, called "the Reywvo developer", "we" or "us" in
+these terms. Reywvo is not a company product, and it is not connected to any game, game publisher or other app.
 
 **Contact:** [iposbots@proton.me](mailto:iposbots@proton.me). You can also open an issue on
 [github.com/ipo461/zenvio-releases/issues](https://github.com/ipo461/zenvio-releases/issues), but issues are public, so
 never post anything personal there.
 
-## 2. What Rewyvo does, and what it doesn't
+## 2. What Reywvo does, and what it doesn't
 
-Rewyvo is a free game clipper for Windows.
+Reywvo is a free game clipper for Windows.
 
 **What it does:**
 
@@ -33,7 +33,7 @@ Rewyvo is a free game clipper for Windows.
   choose. Nothing is saved as a clip unless you press the key.
 - It lets you watch, rename, star, shrink, export and delete your clips, and can delete your oldest un-starred clips
   when you reach the storage limit you set (10 GB unless you change it).
-- If you press **Phone** ("Rewyvo on your phone"), it lets your own phone watch and download your clips over your
+- If you press **Phone** ("Reywvo on your phone"), it lets your own phone watch and download your clips over your
   home Wi-Fi, but only phones you allow on your PC, only while sharing is on, and never on networks Windows calls
   Public. This stays inside your home network: nothing goes to the internet or to us. You can remove a phone any time.
 
@@ -41,32 +41,32 @@ Rewyvo is a free game clipper for Windows.
 
 - It never uploads your clips. There's no account, no cloud storage, no ads and no tracking.
 - It never injects into, hooks or reads the memory of any game. It only uses Windows' normal screen and sound capture.
-- It never records or logs what you type. It only notices when you press Rewyvo's own keys.
+- It never records or logs what you type. It only notices when you press Reywvo's own keys.
 
-Rewyvo only goes online for two things: checking for updates (section 8) and sending a problem report when you choose
+Reywvo only goes online for two things: checking for updates (section 8) and sending a problem report when you choose
 to (section 9). Sharing to your phone uses only your home network, not the internet.
 
-## 3. Using Rewyvo is free
+## 3. Using Reywvo is free
 
-Rewyvo costs nothing. You may install and use it on your own PCs. Please:
+Reywvo costs nothing. You may install and use it on your own PCs. Please:
 
-- download Rewyvo only from the official page,
+- download Reywvo only from the official page,
   [github.com/ipo461/zenvio-releases](https://github.com/ipo461/zenvio-releases). Copies from anywhere else could be
   changed or unsafe;
-- don't sell Rewyvo, and don't share changed or repackaged copies of it as if they were Rewyvo.
+- don't sell Reywvo, and don't share changed or repackaged copies of it as if they were Reywvo.
 
 You're welcome to share the link to the official page. Nothing in these terms takes away anything the open-source
 licences in section 11 allow you to do.
 
 ## 4. Your clips are yours
 
-The Rewyvo developer claims **no rights** in your clips or anything else you make with Rewyvo. We never see them
+The Reywvo developer claims **no rights** in your clips or anything else you make with Reywvo. We never see them
 unless you send them to us yourself. You decide what to keep, share or delete.
 
 Clips can contain other people's work (games, music, videos) and other people's voices and messages, so "yours" means
 we don't own them, not that you own everything in them. Section 5 explains what to look out for.
 
-## 5. Using Rewyvo responsibly
+## 5. Using Reywvo responsibly
 
 You're responsible for what you record and how you share it. In particular:
 
@@ -77,46 +77,48 @@ You're responsible for what you record and how you share it. In particular:
 - **Follow the rules of your games and platforms.** Most games allow recording and sharing gameplay, but some have
   rules, especially about making money from videos. Check each game's and platform's terms.
 - **Follow recording and privacy laws where you live**, and in the place you share your clips.
-- **Don't use Rewyvo for anything illegal or harmful**, such as recording or sharing illegal content, harassing or
+- **Don't use Reywvo for anything illegal or harmful**, such as recording or sharing illegal content, harassing or
   bullying people, or capturing someone's private information.
-- **Watch what's on your screen.** Rewyvo records whatever is on your screen while it records, including private
+- **Watch what's on your screen.** Reywvo records whatever is on your screen while it records, including private
   messages and pop-ups. Tip: turn on Windows' "do not disturb" while gaming and Discord's Streamer Mode.
 
 ## 6. Age
 
-You should be **13 or older** to use Rewyvo. If you're **under 13**, or under the age of digital consent in your country
-(up to 16 in some EU countries), you may only use Rewyvo with a parent's or guardian's permission, and they should
+You should be **13 or older** to use Reywvo. If you're **under 13**, or under the age of digital consent in your country
+(up to 16 in some EU countries), you may only use Reywvo with a parent's or guardian's permission, and they should
 read these terms and the privacy policy with you. Never send a problem report without that permission.
 
 ## 7. Your PC and your settings
 
-Rewyvo needs a supported Windows PC (currently an NVIDIA graphics card). It uses some of your PC's processor, graphics
+Reywvo needs a supported Windows PC (currently an NVIDIA graphics card). It uses some of your PC's processor, graphics
 card and disk space while it records, and its rolling recording is written to your disk. You choose the clips folder,
-the storage limit and whether Rewyvo starts with Windows; you can change these any time in Settings.
+the storage limit and whether Reywvo starts with Windows; you can change these any time in Settings.
 
-When the storage limit is reached, Rewyvo deletes your **oldest clips that aren't starred**, and tells you which one.
+When the storage limit is reached, Reywvo deletes your **oldest clips that aren't starred**, and tells you which one.
 Star the clips you want to keep, and keep backups of clips that matter to you.
 
 ## 8. Updates
 
-Rewyvo checks for a newer version about every 6 hours, and when you open the Rewyvo window. It never checks while it is
+Reywvo checks for a newer version about every 6 hours, and when you open the Reywvo window. It never checks while it is
 recording. It asks the public GitHub page above whether there is a new version and, if there is, downloads it in the
-background. **Nothing is installed until you click Update**; Rewyvo then restarts. Your clips and settings stay.
+background. **It installs when you click Update, or by itself the next time Reywvo starts with Windows** (before you
+play, never while recording); Reywvo then restarts. Before installing, Reywvo checks the update was signed by the
+Reywvo developer, so a changed or fake update is refused. Your clips and settings stay.
 
-Each update is checked to make sure it downloaded correctly. GitHub sees your internet address when Rewyvo checks, as
+Each update is checked to make sure it downloaded correctly. GitHub sees your internet address when Reywvo checks, as
 it would for any website; the [privacy policy](PRIVACY.md) explains more.
 
-You can turn update checks off in **Settings** (the update switch). If you do, you won't get fixes, including security
+You can turn update checks off in **Settings** (the update switch); then nothing is downloaded or installed by itself. If you do, you won't get fixes, including security
 fixes, unless you download a new version yourself.
 
-Updates can add, change or remove features. If an update changes these terms in a way that matters, Rewyvo will ask
+Updates can add, change or remove features. If an update changes these terms in a way that matters, Reywvo will ask
 you to agree again (section 15).
 
 ## 9. Problem reports
 
-You can send us a problem report from inside Rewyvo (**Settings → Report a problem**). It is never sent automatically,
+You can send us a problem report from inside Reywvo (**Settings → Report a problem**). It is never sent automatically,
 and you see exactly what will be sent before you click Send. There is no email field and no account. After sending,
-you get a reference number and can delete your report yourself in Rewyvo at any time.
+you get a reference number and can delete your report yourself in Reywvo at any time.
 
 Please don't write personal details in a report. Reports are deleted automatically after 90 days. The
 [privacy policy](PRIVACY.md) explains exactly what a report contains, where it goes and your rights.
@@ -130,23 +132,23 @@ you choose to send, or an email you send us. Full details are in the [privacy po
 
 ## 11. Open-source parts
 
-Rewyvo includes open-source software, each under its own licence, including FFmpeg (LGPL version 3), NAudio (MIT),
-Velopack (MIT) and Lucide icons (ISC). The full licence texts come with Rewyvo: see `THIRD-PARTY-NOTICES.txt` and the
-`licenses` folder in Rewyvo's program folder.
+Reywvo includes open-source software, each under its own licence, including FFmpeg (LGPL version 3), NAudio (MIT),
+Velopack (MIT) and Lucide icons (ISC). The full licence texts come with Reywvo: see `THIRD-PARTY-NOTICES.txt` and the
+`licenses` folder in Reywvo's program folder.
 
 For those parts, their own licence applies instead of these terms wherever the two differ. For example, you may
-replace Rewyvo's FFmpeg files with your own build. The complete source code of the FFmpeg build Rewyvo uses is a free
-download from the Rewyvo releases page (as explained in `THIRD-PARTY-NOTICES.txt`). You can also ask for it at
-iposbots@proton.me for at least 3 years after the last Rewyvo version that uses that build.
+replace Reywvo's FFmpeg files with your own build. The complete source code of the FFmpeg build Reywvo uses is a free
+download from the Reywvo releases page (as explained in `THIRD-PARTY-NOTICES.txt`). You can also ask for it at
+iposbots@proton.me for at least 3 years after the last Reywvo version that uses that build.
 
 ## 12. Other companies' names
 
-Names such as Discord, NVIDIA, Windows and the names of games are trademarks of their owners. Rewyvo mentions them only
-to say what it works with. Rewyvo is not made, approved or supported by any of them.
+Names such as Discord, NVIDIA, Windows and the names of games are trademarks of their owners. Reywvo mentions them only
+to say what it works with. Reywvo is not made, approved or supported by any of them.
 
 ## 13. Our responsibility to you
 
-**Rewyvo is free and made by one person.** We make it with reasonable care and skill and fix problems when we can, but
+**Reywvo is free and made by one person.** We make it with reasonable care and skill and fix problems when we can, but
 we can't promise it will always work, be free of errors, record every moment, or work with every game or PC.
 
 **Your legal rights.** If you're a consumer, you have legal rights, for example if digital content is faulty or damages
@@ -155,50 +157,51 @@ your device or other digital content. Nothing in these terms affects those right
 
 **What we are responsible for.** We are responsible for loss or damage you suffer that is a foreseeable result of us
 breaking these terms or failing to use reasonable care and skill. Loss or damage is foreseeable if it was obvious that
-it would happen, or if both of us knew it might happen when you started using Rewyvo. We are not responsible for loss
+it would happen, or if both of us knew it might happen when you started using Reywvo. We are not responsible for loss
 or damage that isn't foreseeable.
 
 **What we are not responsible for**, unless the law says otherwise:
 
-- moments Rewyvo didn't record or save, and clips deleted by the storage limit you set, or by you;
+- moments Reywvo didn't record or save, and clips deleted by the storage limit you set, or by you;
 - how you or anyone else uses or shares your clips (section 5);
 - problems caused by other software, your PC, games, anti-cheat systems or your internet connection;
-- if you use Rewyvo for business purposes: loss of profit, business, income or business opportunity.
+- if you use Reywvo for business purposes: loss of profit, business, income or business opportunity.
 
 **What nothing in these terms limits or excludes:** our liability for death or personal injury caused by our
 negligence, for fraud or fraudulent misrepresentation, or for anything else the law doesn't allow us to limit or
 exclude.
 
-## 14. Stopping using Rewyvo
+## 14. Stopping using Reywvo
 
-You can stop using Rewyvo at any time. There's no account to close.
+You can stop using Reywvo at any time. There's no account to close.
 
-**To uninstall:** Windows Settings → Apps → Installed apps → Rewyvo → Uninstall. This removes the program and the
+**To uninstall:** Windows Settings → Apps → Installed apps → Reywvo → Uninstall. This removes the program and the
 "start with Windows" entry.
 
 **What stays on your PC after uninstalling** (so you don't lose anything by accident):
 
 - **your clips**, in your clips folder (`Videos\Clips` in your user folder, unless you chose another one);
-- **your settings**, your own sounds and your list of starred clips, in `%APPDATA%\Rewyvo`;
-- **Rewyvo's logs, clip thumbnails, temporary files** and your list of sent problem reports, in
-  `%LOCALAPPDATA%\Rewyvo`; older versions may also have left `%APPDATA%\Zenvio`, `%LOCALAPPDATA%\Zenvio` and
-  `%APPDATA%\GameClipper` (Rewyvo copies your settings from there once, then leaves them alone).
+- **your settings**, your own sounds and your list of starred clips, in `%APPDATA%\Reywvo`;
+- **Reywvo's logs, clip thumbnails, temporary files** and your list of sent problem reports, in
+  `%LOCALAPPDATA%\Reywvo`; older versions may also have left `%APPDATA%\Rewyvo`, `%LOCALAPPDATA%\Rewyvo`,
+  `%APPDATA%\Zenvio`, `%LOCALAPPDATA%\Zenvio` and `%APPDATA%\GameClipper` (Reywvo copies your settings from there
+  once, then leaves them alone).
 
 To remove everything, delete those folders yourself (type the path into File Explorer's address bar). If you've sent
-problem reports and want them gone before the 90 days are up, delete them in Rewyvo first (Report a problem → "Your
-sent reports"), because the list you need to do that is in `%LOCALAPPDATA%\Rewyvo`.
+problem reports and want them gone before the 90 days are up, delete them in Reywvo first (Report a problem → "Your
+sent reports"), because the list you need to do that is in `%LOCALAPPDATA%\Reywvo`.
 
-**If we stop making Rewyvo:** we may stop updates or switch off the problem-report server at any time. Your installed
+**If we stop making Reywvo:** we may stop updates or switch off the problem-report server at any time. Your installed
 copy keeps working as it is.
 
-**If you seriously break these terms** (for example, by using Rewyvo to secretly record people or to share illegal
-content), you no longer have permission to use Rewyvo. Sections 4, 13 and 16 still apply after you stop.
+**If you seriously break these terms** (for example, by using Reywvo to secretly record people or to share illegal
+content), you no longer have permission to use Reywvo. Sections 4, 13 and 16 still apply after you stop.
 
 ## 15. Changes to these terms
 
-We may update these terms, for example when Rewyvo gets a new feature or the law changes. The version and date are at
-the top. If a change matters for you, the next Rewyvo update shows the new terms and asks you to agree before you
-carry on using it. If you don't agree, you can stop using Rewyvo and uninstall it (section 14). Small fixes, such as
+We may update these terms, for example when Reywvo gets a new feature or the law changes. The version and date are at
+the top. If a change matters for you, the next Reywvo update shows the new terms and asks you to agree before you
+carry on using it. If you don't agree, you can stop using Reywvo and uninstall it (section 14). Small fixes, such as
 typos or clearer wording, may be made without asking again.
 
 ## 16. Which law applies
