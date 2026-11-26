@@ -1,25 +1,25 @@
-# Rewyvo privacy policy
+# Reywvo privacy policy
 
-**Last updated 22 November 2026**
+**Last updated 25 November 2026**
 
-Rewyvo was called **Zenvio** until 18 November 2026. Only the name changed: this policy applies under both names.
+Reywvo was called **Rewyvo** until November 2026, and **Zenvio** until 18 November 2026. Only the name changed: this policy applies under all three names.
 
-Rewyvo is a game clipper for Windows. This policy explains what personal data Rewyvo handles, where it goes, and your
+Reywvo is a game clipper for Windows. This policy explains what personal data Reywvo handles, where it goes, and your
 rights. The short version:
 
 - **Your clips, settings and logs stay on your PC.** We never receive them unless you choose to send part of a log
   with a problem report.
 - **No account, no ads, no tracking, no analytics, no selling of data.**
-- Rewyvo goes online for only two things: **update checks** (to GitHub) and **problem reports you choose to send**
+- Reywvo goes online for only two things: **update checks** (to GitHub) and **problem reports you choose to send**
   (to our report server), including deleting them or checking they still exist.
-- **"Rewyvo on your phone"** (only if you turn it on) shows your clips to phones you allow **on your own home
+- **"Reywvo on your phone"** (only if you turn it on) shows your clips to phones you allow **on your own home
   network**. It doesn't use the internet and nothing reaches us (section 2a).
 
 This policy goes with the [terms of use](TERMS.md).
 
 ## 1. Who is responsible for your data
 
-The "controller" (the one responsible for your personal data under UK and EU data protection law) is **the Rewyvo
+The "controller" (the one responsible for your personal data under UK and EU data protection law) is **the Reywvo
 developer**, an individual in the United Kingdom ("we", "us").
 
 **Contact:** [iposbots@proton.me](mailto:iposbots@proton.me). Please use this address for any privacy question or
@@ -27,24 +27,24 @@ request. We don't have a data protection officer; we're too small to need one.
 
 ## 2. Data that stays on your PC
 
-Rewyvo stores these things **only on your own PC**. We never see them, and they're not sent anywhere:
+Reywvo stores these things **only on your own PC**. We never see them, and they're not sent anywhere:
 
 | What | Where | Notes |
 |---|---|---|
 | Your clips | your clips folder (`Videos\Clips` unless you choose another) | Can include your screen, PC sound (including voice chat) and your microphone. With "Separate tracks per app" on, the game, voice chat and music apps are also stored as their own audio tracks inside the clip (the same sound, split up). |
-| The rolling recording | `%LOCALAPPDATA%\Rewyvo\buffer` | The last few minutes, overwritten as you play. Deleted when Rewyvo closes; after a crash or power cut, deleted the next time Rewyvo starts. |
-| Settings, your own sounds, starred clips | `%APPDATA%\Rewyvo` | |
-| Logs | `%LOCALAPPDATA%\Rewyvo\logs` | What Rewyvo did and when: file paths (which include your Windows user name), audio device names, your graphics card model and which video encoder Rewyvo used, which program was in front and whether it counted as a game, which game, voice chat and music apps had their sound captured (only with "Separate tracks per app" on), and clip file names. Never what you type, and never window titles. Limited in size. |
-| Clip thumbnails and other working files | `%LOCALAPPDATA%\Rewyvo` | Includes a list of large or full-screen programs Rewyvo has seen, for the games list in Settings. |
-| Phones you allowed ("Rewyvo on your phone") | `%LOCALAPPDATA%\Rewyvo\phone.json` | Each phone's type (e.g. "iPhone (Safari)"), when it was added and last seen, its home-network address, and a scrambled fingerprint (SHA-256) of its secret key, never the key itself. Plus the network port used. A phone not used for 30 days is forgotten automatically. Remove phones any time in the Phone pop-up. |
-| A random "PC number" | `%LOCALAPPDATA%\Rewyvo\report-id.txt` | Made by Rewyvo the first time you open the problem-report form. Not linked to you or your PC's hardware. |
-| Your sent reports | `%LOCALAPPDATA%\Rewyvo\sent-reports.json` | The reference and a secret "delete key" for each report you sent, so you can delete it later. |
+| The rolling recording | `%LOCALAPPDATA%\Reywvo\buffer` | The last few minutes, overwritten as you play. Deleted when Reywvo closes; after a crash or power cut, deleted the next time Reywvo starts. |
+| Settings, your own sounds, starred clips | `%APPDATA%\Reywvo` | |
+| Logs | `%LOCALAPPDATA%\Reywvo\logs` | What Reywvo did and when: file paths (which include your Windows user name), audio device names, your graphics card model and which video encoder Reywvo used, which program was in front and whether it counted as a game, which game, voice chat and music apps had their sound captured (only with "Separate tracks per app" on), and clip file names. Never what you type, and never window titles. Limited in size. |
+| Clip thumbnails and other working files | `%LOCALAPPDATA%\Reywvo` | Includes a list of large or full-screen programs Reywvo has seen, for the games list in Settings. |
+| Phones you allowed ("Reywvo on your phone") | `%LOCALAPPDATA%\Reywvo\phone.json` | Each phone's type (e.g. "iPhone (Safari)"), when it was added and last seen, its home-network address, and a scrambled fingerprint (SHA-256) of its secret key, never the key itself. Plus the network port used. A phone not used for 30 days is forgotten automatically. Remove phones any time in the Phone pop-up. |
+| A random "PC number" | `%LOCALAPPDATA%\Reywvo\report-id.txt` | Made by Reywvo the first time you open the problem-report form. Not linked to you or your PC's hardware. |
+| Your sent reports | `%LOCALAPPDATA%\Reywvo\sent-reports.json` | The reference and a secret "delete key" for each report you sent, so you can delete it later. |
 
-### 2a. "Rewyvo on your phone" (home network only)
+### 2a. "Reywvo on your phone" (home network only)
 
-If you press **Phone** and allow a phone, Rewyvo on your PC works as a tiny private web page that only phones on
+If you press **Phone** and allow a phone, Reywvo on your PC works as a tiny private web page that only phones on
 **your own home network** can open, and only while sharing is on (it stops when you close the Phone window, unless you
-switch on "Keep sharing after I close this", and always when Rewyvo closes or the PC sleeps). It refuses to share on
+switch on "Keep sharing after I close this", and always when Reywvo closes or the PC sleeps). It refuses to share on
 networks Windows calls Public.
 
 - **What the phone gets:** your clip list (names, game, date, size, length, quality, starred), thumbnails, and the clips
@@ -56,28 +56,30 @@ networks Windows calls Public.
 - **Honest note:** the connection between phone and PC is plain `http://` inside your home network (a padlock would mean
   scary browser warnings on phones). Someone else on the same Wi-Fi who can read other devices' traffic could, while
   sharing is on, see clips being watched. Only use it on a home network you trust; WPA3 Wi-Fi helps.
-- Your Rewyvo log notes when phones are allowed, denied, removed or blocked (with the phone's type and home-network
+- Your Reywvo log notes when phones are allowed, denied, removed or blocked (with the phone's type and home-network
   address), never the codes or keys.
 
-Rewyvo never collects your name, email address, location, contacts, keystrokes or game account details. It does not
+Reywvo never collects your name, email address, location, contacts, keystrokes or game account details. It does not
 read anything from inside your games.
 
-You control all of this: change settings any time, delete clips in Rewyvo, or delete the folders above (see "Stopping
-using Rewyvo" in the [terms](TERMS.md#14-stopping-using-rewyvo)). Uninstalling Rewyvo leaves these files in place so you
-don't lose your clips by accident. When Zenvio became Rewyvo, Rewyvo copied your settings, starred clips, own
-sounds, apps list, PC number and sent-report list from the old `Zenvio` folders once; nothing was sent anywhere, and
+You control all of this: change settings any time, delete clips in Reywvo, or delete the folders above (see "Stopping
+using Reywvo" in the [terms](TERMS.md#14-stopping-using-reywvo)). Uninstalling Reywvo leaves these files in place so you
+don't lose your clips by accident. Each time the name changed (Zenvio to Rewyvo, then Rewyvo to Reywvo), the app copied your settings, starred clips, own
+sounds, apps list, PC number, sent-report list and allowed phones from the old folders once; nothing was sent anywhere, and
 the old folders stay until you delete them.
 
-Because this data never leaves your PC, we are not the controller for it. Your own personal use of Rewyvo is up to
+Because this data never leaves your PC, we are not the controller for it. Your own personal use of Reywvo is up to
 you. If you share clips, data protection and recording laws may apply to you (see section 5 of the
-[terms](TERMS.md#5-using-rewyvo-responsibly)).
+[terms](TERMS.md#5-using-reywvo-responsibly)).
 
 ## 3. Update checks (GitHub)
 
-About every 6 hours, and when you open the Rewyvo window (never while recording), Rewyvo asks GitHub whether a newer
+About every 6 hours, and when you open the Reywvo window (never while recording), Reywvo asks GitHub whether a newer
 version exists at [github.com/ipo461/zenvio-releases](https://github.com/ipo461/zenvio-releases), and downloads it if
-there is one. Nothing installs until you click Update. Before installing, Rewyvo checks that the update was signed by the Rewyvo
-developer, so a changed or fake update is refused.
+there is one. It installs when you click Update, or by itself the next time Reywvo starts with Windows (before you play,
+never while recording; installing uses only the copy already downloaded, nothing more is sent). Before installing, Reywvo
+checks that the update was signed by the Reywvo developer, so a changed or fake update is refused. Turn update checks off
+in Settings and nothing is downloaded or installed by itself.
 
 - **What is sent:** an ordinary web request for the list of releases and, if there's an update, the download. It does
   not include your clips, settings, logs or anything about you.
@@ -86,16 +88,16 @@ developer, so a changed or fake update is refused.
   it keeps it; see the
   [GitHub General Privacy Statement](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement).
   We don't receive your IP address from GitHub. We can only see how many times each release was downloaded.
-- **Turning it off:** switch off update checks in Rewyvo's Settings.
+- **Turning it off:** switch off update checks in Reywvo's Settings.
 
-**When you download Rewyvo** from the releases page, GitHub sees your IP address in the same way. Installing it
-downloads nothing else: everything Rewyvo needs (including Microsoft's .NET runtime) is inside the installer.
-(Rewyvo 1.0.0 and older could download Microsoft's .NET Desktop Runtime during install if your PC didn't have it; then
+**When you download Reywvo** from the releases page, GitHub sees your IP address in the same way. Installing it
+downloads nothing else: everything Reywvo needs (including Microsoft's .NET runtime) is inside the installer.
+(Rewyvo (the earlier name of Reywvo) 1.0.0 and older could download Microsoft's .NET Desktop Runtime during install if your PC didn't have it; then
 Microsoft saw your IP address, see the [Microsoft Privacy Statement](https://privacy.microsoft.com/privacystatement).)
 
 ## 4. Problem reports
 
-This is the only time we receive data from Rewyvo, and **only if you choose to send a report** (Settings → Report a
+This is the only time we receive data from Reywvo, and **only if you choose to send a report** (Settings → Report a
 problem). Nothing is sent automatically. You see exactly what will be sent before you click Send.
 
 ### What a report contains
@@ -103,19 +105,19 @@ problem). Nothing is sent automatically. You see exactly what will be sent befor
 | Item | Example | Stored? |
 |---|---|---|
 | What you typed (up to 4,000 characters) | "Clip saved without sound" | Yes |
-| Rewyvo version | `0.7.1` | Yes |
+| Reywvo version | `0.7.1` | Yes |
 | Windows version | `Windows 11 25H2 (build 26200.9974)` | Yes |
 | Graphics card name | `NVIDIA GeForce RTX 3050` | Yes |
-| Rewyvo's logs: **only if you tick the box** | the last 200 lines of each of Rewyvo's two logs | Yes, if you ticked it |
+| Reywvo's logs: **only if you tick the box** | the last 200 lines of each of Reywvo's two logs | Yes, if you ticked it |
 | Your random PC number | 32 random letters and digits | **No.** Only used for the "3 reports per hour" limit (below) |
 
 The server also stores **the time** the report arrived, a random **report ID**, and a scrambled copy (hash) of the
 report's delete key. It does **not** store your IP address or your PC number with the report.
 
-**Logs are cleaned on your PC before you see the preview.** Rewyvo replaces your Windows user name, PC name and user
+**Logs are cleaned on your PC before you see the preview.** Reywvo replaces your Windows user name, PC name and user
 folder, e-mail addresses, internet and network addresses (IP and MAC), Windows account IDs, names in device names
 (like "Sam's headphones") and anything that looks like a password, key or token. Logs still show which games and
-programs Rewyvo noticed and when, and your clip file names. Tick **"Also hide game, app and clip names"** to remove those
+programs Reywvo noticed and when, and your clip file names. Tick **"Also hide game, app and clip names"** to remove those
 too.
 
 **There is no email field and no account.** Please don't type personal details (your real name, address, phone number,
@@ -123,7 +125,7 @@ passwords) into a report. Under 13, or under 16 in some EU countries? Ask a pare
 
 ### Why we use it, and the legal basis
 
-Only to **find and fix problems in Rewyvo**. Reports are never sold, shared with anyone for their own use, used for
+Only to **find and fix problems in Reywvo**. Reports are never sold, shared with anyone for their own use, used for
 ads, profiling or tracking, or used to train AI. We don't make any automated decisions about you.
 
 The legal basis is **your consent** (UK GDPR and EU GDPR Article 6(1)(a)): you choose to send each report, and you can
@@ -141,7 +143,7 @@ of spam (Article 6(1)(f)).
 
 ### Where reports go: Cloudflare
 
-Reports are sent over an encrypted connection (HTTPS) to Rewyvo's report server, which runs on **Cloudflare**
+Reports are sent over an encrypted connection (HTTPS) to Reywvo's report server, which runs on **Cloudflare**
 (Cloudflare, Inc., USA). Cloudflare acts as our **processor**: it stores and handles reports only on our instructions,
 under its Data Processing Addendum. The report database is stored in Cloudflare's **Western Europe** region. Like any
 website host, Cloudflare's network sees your IP address while it carries the request, and the request may be handled
@@ -156,7 +158,7 @@ We have switched off Cloudflare's request logs for the report server, so it does
 
 ### Who can read reports
 
-Only the Rewyvo developer, using a private key. Players can only send reports and delete their own.
+Only the Reywvo developer, using a private key. Players can only send reports and delete their own.
 
 ### How long reports are kept
 
@@ -171,14 +173,14 @@ fully disappears from that history within 30 days of being deleted. We don't use
 After sending, you get a **reference** such as `3F9A-0C21-7B44`. To delete your report, go to **Report a problem →
 "Your sent reports" → Delete**. No email or account needed; it's removed from the report database straight away.
 
-When you open "Your sent reports", Rewyvo asks the report server which of them still exist (for example, if we deleted
+When you open "Your sent reports", Reywvo asks the report server which of them still exist (for example, if we deleted
 one after dealing with it, or it reached 90 days) and drops the ones that are gone from the list. For this it sends
 only each report's ID and its delete key (the server already has the ID and a scrambled copy of the key), nothing
 else about you or your PC. The
 server only answers yes or no for each one, stores nothing and keeps no log of it, and can't tell anyone about other
 people's reports. If you're offline, the list just stays as it is.
 
-Lost your PC, or deleted Rewyvo's folders? Email [iposbots@proton.me](mailto:iposbots@proton.me) with the reference,
+Lost your PC, or deleted Reywvo's folders? Email [iposbots@proton.me](mailto:iposbots@proton.me) with the reference,
 and we'll delete it. You can also ask on the public
 [GitHub issues page](https://github.com/ipo461/zenvio-releases/issues), quoting **only** the reference, but that
 page is public and needs a GitHub account (13+), so email is better.
@@ -193,15 +195,15 @@ right, we keep a short note (date, what was asked, what we did) for up to 2 year
 
 ## 6. No tracking, ads or selling
 
-Rewyvo has no analytics, no tracking, no tracking cookies (the only cookie is the one that lets your own phone see your
+Reywvo has no analytics, no tracking, no tracking cookies (the only cookie is the one that lets your own phone see your
 own PC, section 2a), no advertising, and no third-party code that reports on you. We don't
 sell or share personal data. Nobody else gets reports, except Cloudflare as our processor (section 4), or if the law
 forces us to (for example a valid court order).
 
 ## 7. Children
 
-Rewyvo is meant for people aged **13 and over**, and anyone younger should only use it with a parent's or
-guardian's permission (see the [terms](TERMS.md#6-age)). We've designed Rewyvo to need as little personal data as
+Reywvo is meant for people aged **13 and over**, and anyone younger should only use it with a parent's or
+guardian's permission (see the [terms](TERMS.md#6-age)). We've designed Reywvo to need as little personal data as
 possible: no account, no email, nothing sent automatically, logs left out of reports unless ticked, and in-app deletion
 that needs no account.
 
@@ -256,9 +258,9 @@ report.
 
 If we change this policy, we'll update the date at the top and publish the new version on
 [github.com/ipo461/zenvio-releases](https://github.com/ipo461/zenvio-releases). If a change matters for you (for
-example, if Rewyvo starts sending anything new), Rewyvo will show you the change and ask you to agree to the terms
+example, if Reywvo starts sending anything new), Reywvo will show you the change and ask you to agree to the terms
 again before it sends anything new.
 
 ## 12. Contact
 
-The Rewyvo developer: **[iposbots@proton.me](mailto:iposbots@proton.me)**
+The Reywvo developer: **[iposbots@proton.me](mailto:iposbots@proton.me)**
