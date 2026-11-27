@@ -55,7 +55,7 @@ no internet, or the app won't open at all? open an [issue](https://github.com/ip
 
 ## terms & privacy
 
-by using Reywvo you agree to the [terms of use](https://github.com/ipo461/zenvio-releases/blob/main/TERMS.md). the [privacy policy](https://github.com/ipo461/zenvio-releases/blob/main/PRIVACY.md) explains the little bit of data Reywvo ever handles (update checks, and problem reports you send yourself). questions or deleting a report: iposbots@proton.me
+by using Reywvo you agree to the [terms of use](https://reywvo.com/terms/). the [privacy policy](https://reywvo.com/privacy/) explains the little bit of data Reywvo ever handles (update checks, and problem reports you send yourself). questions or deleting a report: iposbots@proton.me
 
 ## credits
 
