@@ -12,7 +12,7 @@ Windows 10 or 11, 64-bit. more about it on the website: [reywvo.com](https://rey
 
 **"Windows protected your PC"?** click **More info → Run anyway**. Windows shows that for apps that aren't code-signed yet (signing costs money every year, and Reywvo is free). updates are still signed with my own key, and the app refuses any update that isn't.
 
-once it's installed it updates itself. when there's a new version you get a little "update ready" message and you click it. you can turn that off in settings if you don't want it.
+once it's installed it updates itself. new versions download in the background, also while you're recording or playing, at low priority so it doesn't cost FPS. it never installs mid-game: only when you press "Update & restart" (you get a little "update ready" message) or when Windows starts. you can turn that off in settings if you don't want it.
 
 ## what it does
 
@@ -45,7 +45,7 @@ every clipper costs a few FPS because copying and encoding the screen isn't free
 
 - works with **NVIDIA, AMD and Intel** graphics cards (it uses the card's built-in video encoder). I've only been able to test on NVIDIA so far, so if something's off on AMD or Intel please send a problem report
 - games in borderless or windowed mode work best. exclusive fullscreen might not
-- your clips stay on your pc. Reywvo doesn't upload anything. it only goes online to check this page for updates, and when you send a problem report yourself
+- your clips stay on your pc. Reywvo doesn't upload anything. it only goes online to check this page for updates (and download them), for a tiny anonymous once-a-day head count you can switch off, and when you send a problem report yourself
 
 ## something broke?
 
@@ -55,7 +55,7 @@ no internet, or the app won't open at all? open an [issue](https://github.com/ip
 
 ## terms & privacy
 
-by using Reywvo you agree to the [terms of use](https://reywvo.com/terms/). the [privacy policy](https://reywvo.com/privacy/) explains the little bit of data Reywvo ever handles (update checks, and problem reports you send yourself). questions or deleting a report: iposbots@proton.me
+by using Reywvo you agree to the [terms of use](https://reywvo.com/terms/). the [privacy policy](https://reywvo.com/privacy/) explains the little bit of data Reywvo ever handles (update checks, the anonymous head count, and problem reports you send yourself). questions or deleting a report: iposbots@proton.me
 
 ## credits
 
